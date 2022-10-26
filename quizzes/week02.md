@@ -58,13 +58,13 @@ i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+Null, undefined, bool, number, bigint
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
