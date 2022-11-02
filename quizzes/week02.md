@@ -69,10 +69,10 @@ Null, undefined, bool, number, string, NaN
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+Parameters are variables in the parentheses when the function is defined, arguments are whats inputted when calling the function
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+When a reference value gets assigned to a variable, then that variable gets assigned to another variable, then the value of the original value changes, so does the second variable. In the same scenario a primitive value wouldn't update in the second variable.  
 ```
