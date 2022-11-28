@@ -3,7 +3,7 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation, inheritance, polymorphism
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -21,12 +21,12 @@ staff[property]
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Enclosing code that deals with the same data into their own class
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
@@ -36,7 +36,7 @@ A class is similar to a blueprint while the instance of a class is similar to a 
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+A proxy object is the middleman between a class and the instance, it allows for interception of getting and setting
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
